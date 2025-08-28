@@ -1,0 +1,1 @@
+echo "# Mini GitHub Demo Project"
